@@ -1,0 +1,19 @@
+{
+  "name": "line-bot-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "dependencies": {
+    "linebot": "^1.5.1",
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
