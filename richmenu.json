@@ -1,0 +1,87 @@
+{
+    "size": {
+        "width": 2500,
+        "height": 1686
+    },
+    "selected": false,
+    "name": "richmenu - share",
+    "chatBarText": "點開看看",
+    "areas": [
+        {
+            "bounds": {
+                "x": 0,
+                "y": 0,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type": "uri",
+                "uri": "line://app/1590491617-OJ96gNL2"
+            }
+        },
+        {
+            "bounds": {
+                "x": 833,
+                "y": 0,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type":"message",
+                "text":"記帳"
+            }
+        },
+        {
+            "bounds": {
+                "x": 1666,
+                "y": 0,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type": "uri",
+                "uri": "line://nv/camera/"
+             }
+        },
+        {
+            "bounds": {
+                "x": 0,
+                "y": 843,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type": "uri",
+                "uri": "line://nv/cameraRoll/multi"
+             }
+        },
+        {
+            "bounds": {
+                "x": 843,
+                "y": 843,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type":"uri",
+                "label":"View details",
+                "uri":"https://www.google.com/",
+                "altUri": {
+                    "desktop" : "https://www.google.com/"
+                }
+            }
+        },
+        {
+            "bounds": {
+                "x": 1686,
+                "y": 843,
+                "width": 833,
+                "height": 843
+            },
+            "action": {
+                "type":"uri",
+                "uri":"line://msg/text/?邀請碼：123456"
+            }
+        }
+    ]
+}
